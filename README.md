@@ -11,4 +11,4 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 [:godmode:](https://gist.github.com/rxaviers/7360908)
 
 
-![Doom](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjnr-uI2eLiAhUYH7kGHbGLASoQjRx6BAgBEAU&url=https%3A%2F%2Fpngriver.com%2Fdownload-doom-png-hd-82434%2F&psig=AOvVaw1sZP_ZyzqYZUfPwHych721&ust=1560386025545626)
+[:camel:](https://gist.github.com/rxaviers/7360908)
